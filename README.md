@@ -84,8 +84,8 @@ WA Important is built by a two-person team, split across the two hardest parts o
 
 | Role | Owner | Focus |
 |---|---|---|
-| **Notification & Platform Engineer** | @Nikitha(#) | Reliable notification capture, foreground service, keeping the listener alive under aggressive OEM battery management (vivo/iQOO/Xiaomi/OnePlus) |
-| **Rule Engine & UI Engineer** | @Mohan(#) | Rule/scoring logic for what counts as "important," and the Jetpack Compose UI that surfaces it |
+| **Notification & Platform Engineer** | @Nikitha | Reliable notification capture, foreground service, keeping the listener alive under aggressive OEM battery management (vivo/iQOO/Xiaomi/OnePlus) |
+| **Rule Engine & UI Engineer** | @Mohan | Rule/scoring logic for what counts as "important," and the Jetpack Compose UI that surfaces it |
 
 ## 🔒 Privacy First
 
